@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillZ
+  - Damaging
+  - Victory
+  - Attack
+  - MovingPlatform
+  - Health
+  - Breakable
+  - EarthShatter
+  - Notification
+  - BossTrigger
+  - PowerPickUp
+  - NextScene
+  - IcePrincess
+  - Maelstrom
+  - IcePowerPickUp
+  - SuperFireball
+  - Whirlwind
+  - MorningPeacock
+  - Heatwave
+  - MidnightCrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Trigger
+  - OneWayPlatform
+  - Enemy
+  - CameraBounds
+  - BreakableObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

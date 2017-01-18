@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: d0644c0a5b1c39542bb51ff3dfb59b29
+timeCreated: 1481003110
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Earth Power_0
+    21300002: Earth Power_1
+    21300004: Earth Power_2
+    21300006: Earth Power_3
+    21300008: Earth Power_4
+    21300010: Earth Power_5
+    21300012: Earth Power_6
+    21300014: Earth Power_7
+    21300016: Earth Power_8
+    21300018: Earth Power_9
+    21300020: Earth Power_10
+    21300022: Earth Power_11
+    21300024: Earth Power_12
+    21300026: Earth Power_13
+    21300028: Earth Power_14
+    21300030: Earth Power_15
+    21300032: Earth Power_16
+    21300034: Earth Power_17
+    21300036: Earth Power_18
+    21300038: Earth Power_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Power_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 673.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 673.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 673.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 505.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 505.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 505.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 337.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 337.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 337.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 169.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 169.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 169.6
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6000061
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1.6000061
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1.6000061
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth Power_19
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1.6000061
+        width: 180
+        height: 168.4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

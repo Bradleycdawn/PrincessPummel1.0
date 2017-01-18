@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &126418
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 479960}
+  - 114: {fileID: 11431210}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &479960
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126418}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11431210
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 126418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88487195acfcd9747bbd7f59f0605236, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pausePanel: {fileID: 0}
+  powerUpInfo: {fileID: 0}
+  musicVolume: 0.75
+  sfxVolume: 0.85
+  MusicList:
+  - {fileID: 8300000, guid: 5710a61252ba346429429d661345f5ec, type: 3}
+  - {fileID: 8300000, guid: bcc555e59ab32af4db613e9f000d048a, type: 3}
+  - {fileID: 8300000, guid: 163e58e967fd7b148b1f9c513fa51400, type: 3}
+  - {fileID: 8300000, guid: 7c435cdcac7e3d048aaf777912e5e5d2, type: 3}
+  - {fileID: 8300000, guid: 206c231fa7418f54b821cef600d00f39, type: 3}
+  - {fileID: 8300000, guid: 5d08541d3812eb54ea0905ffa9ec29dd, type: 3}
+  - {fileID: 8300000, guid: 08a6863a9122f1944b5bb49436c3f9f7, type: 3}
+  - {fileID: 8300000, guid: 99b1b5c1ddd53b849ac96de7ec17abe9, type: 3}
+  SFXList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 8300000, guid: d749e8e7c82d190438e3a5a15260b301, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 8300000, guid: 26fdd807ba9c974498c32d097352569c, type: 3}
+  playerHealth: 100
+  playerPower: 0
+  playerStamina: 100
+  playerEarthPower: 0
+  playerIcePower: 0
+  playerFirePower: 0
+  playerWindPower: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 126418}
+  m_IsPrefabParent: 1

@@ -1,0 +1,11 @@
+--------------------------------------
+"The River (Loop)" Song Data
+--------------------------------------
+Loopabie: Yes
+BPM: 160
+Formats: 
+  MP3 - 320 kbps
+  Wave - 16 bit 44,100 Hz 
+  (Some formats may not be included with your order)
+
+ISRC: QML331500076
